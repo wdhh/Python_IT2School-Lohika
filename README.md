@@ -9,4 +9,4 @@
 
 ### <a href="/Homeworks"><img src="http://beer-taster.com/beer-icon.png" align="left" height="32" width="32" ></a>[Домашние задания тут](/Homeworks)
 
-### <a href="/CribSheet/шпоронька.py"><img src="http://www.iconsearch.ru/ajax/download.php?icon_id=34105&size=6&format=png" align="left" height="32" width="32" ></a>[Шпороньку качает отсюда](/CribSheet/шпоронька.py)
+### <a href="/CribSheet/шпоронька.py"><img src="http://www.iconsearch.ru/ajax/download.php?icon_id=34105&size=6&format=png" align="left" height="32" width="32" ></a>[Шпороньку качаем отсюда](/CribSheet/шпоронька.py)
