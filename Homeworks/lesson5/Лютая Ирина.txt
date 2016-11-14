@@ -1,1 +1,36 @@
+I.
+if (n>0):
+  if(n>3 and n<9)
+    for і in 1, 'one', 2, 'two', 3, 'three':
+      print("і","=",(n%2+1))
+  elif(n>10):
+      for і in 1, 'one', 2, 'two':
+        print(i)
+  else:
+     print("i","=",i)
+elif(n==0):
+  print(randint(1, 3))
+else:
+  n=n*(-1)
+  print(n//6)
+  
+  
+II.
+for і in range(5):
+  j=0
+  while(j<i)
+    print('i')
+    j+=1
+    
+   
+III.
+for і in range(5):
+  for j in rage(5):
+    if (i==j-1):
+      print(i,"-",j)
+    elif (i==j+1)
+      print("revert order:", i, "-", j)
+    elif(i==j%5)
+      print(i)
+
 
