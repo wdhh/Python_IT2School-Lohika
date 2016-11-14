@@ -1,1 +1,22 @@
-
+I.
+if (n>0):
+  for і in 1, 'one', 2, 'two', 3, 'three':
+    print("і","=",i)
+elif(n==0):
+  print(randint(1, 2))
+else:
+  n=n*(-1)
+  print(n/6)
+  
+  
+II.
+for і in range(5):
+  for j in rage(5):
+    print(i,"-",j)
+    
+   
+III.
+for і in range(100):
+  for j in rage(10):
+    if (i%10==0):
+      print(i*j)
