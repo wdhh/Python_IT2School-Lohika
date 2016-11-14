@@ -19,10 +19,10 @@ for і in range(10):
 III.
 for і in range(5):
   for j in rage(5):
-    if (i=j-1):
+    if (i==j-1):
       print(i,"-",j)
-    elif (i=j+1):
+    elif (i==j+1):
       print("revert order:", i, "-", j)
-    elis (j=0):
+    elis (j==0):
       print("i"*(i+1))
 
